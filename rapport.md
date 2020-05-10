@@ -33,7 +33,7 @@ Sachant que nous voulons implémenter une version `HMQV`, il nous faut encore d�
 L'algorithme se comporte de la manière suivante :
 
 1. L'utilisateur choisit `r` et x<sub>u</sub> dans l'ensemble des nombres réels Z.
-2. L'utilisateur assigne \alpha
+2. L'utilisateur assigne $\alpha$
 
 
 ## Implémentation
