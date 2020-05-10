@@ -35,7 +35,7 @@ Sachant que nous voulons implémenter une version `HMQV`, il nous faut encore d�
 
 L'algorithme se comporte de la manière suivante :
 
-1. L'utilisateur choisit `r` et x<sub>u</sub> <- \\[\mathbb{Z}\\]
+1. L'utilisateur choisit `r` et x<sub>u</sub> <- \\(\mathbb{Z}\\)
 
 ## Implémentation
 
